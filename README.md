@@ -1,26 +1,37 @@
-# <img src="[https://github.com/tensaeaschalew/deep-learning-assignment/blob/main/assets/animation.gif"](https://github.com/tensaeaschalew/deep-learning-assignment/blob/main/assets/animation.gif") width="50px"> Tensae Aschalew's Deep Learning Assignment Report
 
-## Overview
+<div align="center">
+  <img src="https://github.com/tensaeaschalew/deep-learning-assignment/blob/main/assets/animation.gif" width="50px">
+  <h1 style="font-size: 36px; font-weight: bold;">Tensae Aschalew's Deep Learning Assignment Report</h1>
+</div>
 
-This report presents the findings from a Deep Learning Assignment that explores fundamental aspects of neural network design using the MNIST dataset.
+<div style="background-color: #f7f7f7; padding: 20px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+  <h2 style="font-size: 24px; font-weight: bold;">Overview</h2>
+  <p style="font-size: 18px; color: #666;">This report presents the findings from a Deep Learning Assignment that explores fundamental aspects of neural network design using the MNIST dataset.</p>
+</div>
 
-## Key Insights
+<div style="background-color: #f7f7f7; padding: 20px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+  <h2 style="font-size: 24px; font-weight: bold;">Key Insights</h2>
+  <ul style="font-size: 18px; color: #666; list-style: none; padding: 0; margin: 0;">
+    <li style="padding: 10px; border-bottom: 1px solid #ccc;">**Activation Functions**: ReLU resolves the vanishing gradient problem by maintaining a constant gradient for positive inputs, outperforming Sigmoid and Tanh in speed and accuracy.</li>
+    <li style="padding: 10px; border-bottom: 1px solid #ccc;">**Network Depth**: Increasing depth boosts representational power, with medium depths (4-8 layers) optimal for MNIST, balancing performance and efficiency.</li>
+  </ul>
+</div>
 
-* Activation Functions: ReLU resolves the vanishing gradient problem by maintaining a constant gradient for positive inputs, outperforming Sigmoid and Tanh in speed and accuracy.
-* Network Depth: Increasing depth boosts representational power, with medium depths (4-8 layers) optimal for MNIST, balancing performance and efficiency.
+<div style="background-color: #f7f7f7; padding: 20px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+  <h2 style="font-size: 24px; font-weight: bold;">Experiments</h2>
+  <p style="font-size: 18px; color: #666;">The experiments involve training neural networks, analyzing their performance, and visualizing results to draw meaningful conclusions.</p>
+</div>
 
-## Experiments
+<div style="background-color: #f7f7f7; padding: 20px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+  <h2 style="font-size: 24px; font-weight: bold;">Report Structure</h2>
+  <ol style="font-size: 18px; color: #666; list-style: none; padding: 0; margin: 0;">
+    <li style="padding: 10px; border-bottom: 1px solid #ccc;">**Activation Functions**</li>
+    <li style="padding: 10px; border-bottom: 1px solid #ccc;">**Depth of Artificial Neural Networks**</li>
+    <li style="padding: 10px; border-bottom: 1px solid #ccc;">**Summary of Key Insights**</li>
+  </ol>
+</div>
 
-The experiments involve training neural networks, analyzing their performance, and visualizing results to draw meaningful conclusions.
-
-## Report Structure
-
-The report is divided into three questions:
-
-1. Activation Functions
-2. Depth of Artificial Neural Networks
-3. Summary of Key Insights
-
-## Author
-
-Tensae Aschalew
+<div style="background-color: #f7f7f7; padding: 20px; border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+  <h2 style="font-size: 24px; font-weight: bold;">Author</h2>
+  <p style="font-size: 18px; color: #666;">Tensae Aschalew</p>
+</div>
